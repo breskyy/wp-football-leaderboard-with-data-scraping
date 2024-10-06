@@ -1,0 +1,1 @@
+This is my first wordpress plugin that displays a sports club results table with data pulled directly from an external website to a server database. The table updates automatically every 24 hours. More information coming soon..
